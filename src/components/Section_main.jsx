@@ -23,7 +23,7 @@ function Section_main() {
                 <img className='w-[370px] h-[550px]' src={phone} alt="" />
            </div>
             </div>
-            <div className='hidden flex-col gap-4 md:block md:flex z-40 -mt-10'>
+            <div className='hidden flex-col gap-4 lg:flex z-40 -mt-10'>
                 <button className='px-16 py-2 bg-white bg-opacity-75 border-2 rounded-full border-blue-600 -ml-[220px]'>Send Links</button>
                 <button className='px-12 py-2 bg-white bg-opacity-75 border-2 rounded-full border-blue-600 -ml-[190px] -mr-6'>Instant Payouts</button>
                 <button className='px-10 py-2 bg-white bg-opacity-75 border-2 rounded-full border-blue-600 -ml-[160px] -mr-12'>Virtual Accounts</button>
@@ -34,7 +34,7 @@ function Section_main() {
 
 
 
-            <div className='lg:w-[30%] w-[30rem] mx-10 lg:mx-0 md:mt-10 mt-5 rounded card p-4 lg:-ml-12'>
+            <div className='lg:w-[30%] mx-6 lg:mx-0 md:mt-10 mt-5 rounded card p-2 lg:-ml-12'>
                 <h1 className='md:text-4xl font-semibold text-blue1 mb-2 hidden lg:block'>Virtual <pre className='font-pop'>Accounts</pre></h1>
                 <h1 className='text-2xl md:text-3xl font-semibold text-white text-center mb-2 lg:hidden bg-blue2 px-6 py-4 rounded-lg'>Virtual Accounts</h1>
                 <p className='w-[90%] md:text-lg text-center leading-tighter'>Easily manage complex projects by creating separate virtual account for each project, at no extra cost</p>
@@ -47,7 +47,7 @@ function Section_main() {
                 <h3 className='uppercase md:text-blue1 text-blue-400 text-lg  py-2 font-semibold tracking-widest'>Tools and Resources</h3>
                 <p className='md:text-xl'>We have taken care of all the hard work,  so you and your team can focus on integration using our easy and ready to use APIs</p>
             </div>
-            <div className='bg-black mt-6 md:my-0 px-8 py-10 lg:w-[80%] lg:h-[90%] md:w-[70%] md:h-[60%] rounded-lg'>
+            <div className='bg-black mt-6 md:my-0 px-8 py-6 lg:w-[80%] lg:h-[90%] rounded-lg'>
                 <div className='flex lg:gap-2 gap-1 mb-4 md:mb-0'>
                     <div className='bg-red-500 w-3 h-3 rounded-full'></div>
                     <div className='bg-yellow-500 w-3 h-3 rounded-full'></div>

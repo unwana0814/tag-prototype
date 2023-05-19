@@ -13,7 +13,7 @@ function Main() {
                   Create Free Account
                 </button>
                 {/* <button className='uppercase btn bg-blue1 text-sm md:mr-2 my-2'>Create Free Account</button> */}
-                <button className='uppercase btn bg-blue2 text-sm ml-2 mb-2 uppercase btn text-sm md:mr-2 my-2 transition ease-in-out delay-150  hover:-translate-y-2  hover:scale-105 hover:bg-blue-500 duration-300 ...'>Try it Out (Demo)</button>
+                <button className='uppercase btn bg-blue2 text-sm ml-2 mb-2  btn md:mr-2 my-2 transition ease-in-out delay-150  hover:-translate-y-2  hover:scale-105 hover:bg-blue-500 duration-300 ...'>Try it Out (Demo)</button>
         </div>
         <div className='circle bg-white top-12'></div>
         <div className='circleb top-28 bg-blue-200'></div>
