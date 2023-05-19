@@ -47,22 +47,22 @@ function Section_main() {
                 <h3 className='uppercase md:text-blue1 text-blue-400 text-lg  py-2 font-semibold tracking-widest'>Tools and Resources</h3>
                 <p className='md:text-xl'>We have taken care of all the hard work,  so you and your team can focus on integration using our easy and ready to use APIs</p>
             </div>
-            <div className='bg-black mt-6 md:my-0 px-8 py-6 lg:w-[80%] lg:h-[90%] rounded-lg'>
+            <div className='bg-black mt-6 md:my-0 px-6 py-6 lg:w-[80%] lg:h-[90%] rounded-lg'>
                 <div className='flex lg:gap-2 gap-1 mb-4 md:mb-0'>
                     <div className='bg-red-500 w-3 h-3 rounded-full'></div>
                     <div className='bg-yellow-500 w-3 h-3 rounded-full'></div>
                     <div className='bg-green-500 w-3 h-3 rounded-full'></div>
                 </div>
                 <div className='text-white'>
-                    <p className='mx-4 my-2 lg:text-xl'>&#x2774;</p>
-                    <div className='xl:px-16 lg:pl-8  px-6'>
+                    <p className='mx-2 my-2 lg:text-xl'>&#x2774;</p>
+                    <div className='xl:px-16 lg:pl-8  px-4'>
                         <p className='lg:text-xl'>"amount": 10,000.00,</p>
                         <p className='lg:text-xl'>"currency": "NG",</p>
                         <p className='lg:text-xl'>"card number": "411111111",</p>
                         <p className='lg:text-xl'>"card-exp-month": "01",</p>
                         <p className='lg:text-xl'>"card-exp-year": "2024"</p>
                     </div>
-                    <p className='mx-4 my-2 lg:text-xl'>&#x2775;</p>
+                    <p className='mx-2 my-2 lg:text-xl'>&#x2775;</p>
                 </div>
             </div>
 
