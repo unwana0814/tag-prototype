@@ -76,7 +76,7 @@ function Footer() {
         </div>
             <div className='flex md:flex-row items-center flex-col lg:mx-20 lg:pb-4'>
                 <div className='flex-1'>
-                    <ul className='flex justify-start gap-4 pb-3 lg:p-0 flex-wrap text-blue1'>
+                    <ul className='flex justify-justify gap-2 pb-3 lg:p-0 flex-wrap text-blue1'>
                         <li className='hover:font-semibold underline cursor-pointer'>Seek Help</li>
                         <li className='hover:font-semibold underline cursor-pointer'>Privacy</li>
                         <li className='hover:font-semibold underline cursor-pointer'>Currency</li>
